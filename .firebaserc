@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "ionic-react-conference-app"
-  }
+    "default": "conf-pwa-2583b",
+    "testing": "conf-pwa-2583b"
+  },
+  "targets": {}
 }
